@@ -1,0 +1,13 @@
+C:\Users\zancr\Desktop\Galaxies-master\Galaxies-master\Galaxies\bin\Debug\netcoreapp3.1\Milky Way.exe
+C:\Users\zancr\Desktop\Galaxies-master\Galaxies-master\Galaxies\bin\Debug\netcoreapp3.1\Milky Way.deps.json
+C:\Users\zancr\Desktop\Galaxies-master\Galaxies-master\Galaxies\bin\Debug\netcoreapp3.1\Milky Way.runtimeconfig.json
+C:\Users\zancr\Desktop\Galaxies-master\Galaxies-master\Galaxies\bin\Debug\netcoreapp3.1\Milky Way.runtimeconfig.dev.json
+C:\Users\zancr\Desktop\Galaxies-master\Galaxies-master\Galaxies\bin\Debug\netcoreapp3.1\Milky Way.dll
+C:\Users\zancr\Desktop\Galaxies-master\Galaxies-master\Galaxies\bin\Debug\netcoreapp3.1\Milky Way.pdb
+C:\Users\zancr\Desktop\Galaxies-master\Galaxies-master\Galaxies\obj\Debug\netcoreapp3.1\Milky Way.AssemblyInfoInputs.cache
+C:\Users\zancr\Desktop\Galaxies-master\Galaxies-master\Galaxies\obj\Debug\netcoreapp3.1\Milky Way.AssemblyInfo.cs
+C:\Users\zancr\Desktop\Galaxies-master\Galaxies-master\Galaxies\obj\Debug\netcoreapp3.1\Milky Way.csproj.CoreCompileInputs.cache
+C:\Users\zancr\Desktop\Galaxies-master\Galaxies-master\Galaxies\obj\Debug\netcoreapp3.1\Milky Way.dll
+C:\Users\zancr\Desktop\Galaxies-master\Galaxies-master\Galaxies\obj\Debug\netcoreapp3.1\Milky Way.pdb
+C:\Users\zancr\Desktop\Galaxies-master\Galaxies-master\Galaxies\obj\Debug\netcoreapp3.1\Milky Way.genruntimeconfig.cache
+C:\Users\zancr\Desktop\Galaxies-master\Galaxies-master\Galaxies\obj\Debug\netcoreapp3.1\Milky Way.csprojAssemblyReference.cache
